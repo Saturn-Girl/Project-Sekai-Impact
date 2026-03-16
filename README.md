@@ -6,9 +6,9 @@ Project Sekai Impact is a proprietary game developed by Saturn Computing topic i
 **License:** SCPL (Proprietary)
 
 ## Tech Stack
-- **Game Logic:** XML (Custom Parser)
+- **Game Logic:** Python
 - **Performance:** Optimized Assembly routines for rhythm/impact math.
-- **Backend:** Python 3.10+
+- **Backend:** Python 3.12+
 
 ## Release Info
 Targeting **September 27, 2026**. This project will be distributed via Steam and physical DVD (199 PHP).
